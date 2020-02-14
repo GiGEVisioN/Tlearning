@@ -1,0 +1,501 @@
+ClientName,City,OrderID,OrderDate
+Clinton,Bismarck100,100,09-02-2019
+Harding,Columbus101,101,21-05-2019
+Monroe,Boston102,102,28-09-2019
+Cleveland,Atlanta103,103,21-10-2019
+Fillmore,Sacramento104,104,24-02-2018
+Quincy,Salt Lake City105,105,13-03-2019
+Taylor,Boston106,106,06-06-2019
+Madison,Salem107,107,30-03-2019
+Johnson,Raleigh108,108,23-11-2018
+Grant,Lansing109,109,20-05-2017
+Arthur,Jackson110,110,30-11-2017
+Grant,Columbia111,111,29-11-2017
+Fillmore,Montgomery112,112,22-07-2018
+Polk,Richmond113,113,16-11-2019
+Quincy,Charleston114,114,06-05-2018
+Kennedy,Harrisburg115,115,27-07-2019
+Taylor,Concord116,116,15-06-2019
+Coolidge,Nashville117,117,28-07-2019
+Madison,Augusta118,118,29-06-2019
+Wilson,Lansing119,119,23-09-2018
+Reagan,Oklahoma City120,120,20-03-2019
+Roosevelt,Trenton121,121,24-06-2017
+Clinton,Olympia122,122,04-05-2018
+Eisenhower,Bismarck123,123,20-07-2017
+Carter,Atlanta124,124,06-07-2018
+Adams,Dover125,125,23-09-2019
+Clinton,Dover126,126,14-11-2018
+Arthur,Hartford127,127,14-04-2017
+Johnson,Phoenix128,128,16-09-2018
+Hayes,Providence129,129,20-09-2017
+Tyler,Springfield130,130,22-06-2018
+Adams,Indianapolis131,131,11-02-2017
+Monroe,Columbia132,132,18-05-2017
+Carter,Nashville133,133,27-07-2018
+Adams,Raleigh134,134,20-07-2018
+Polk,Montpelier135,135,13-01-2017
+Kennedy,Columbus136,136,13-09-2017
+Pierce,Salt Lake City137,137,19-05-2019
+Ford,Hartford138,138,13-09-2017
+Harrison,Concord139,139,05-11-2019
+McKinley,Dover140,140,03-07-2018
+Harrison,Dover141,141,27-03-2017
+Adams,Lincoln142,142,08-03-2017
+Van Buren,Richmond143,143,19-08-2018
+Reagan,Topeka144,144,28-09-2018
+Tyler,Denver145,145,01-08-2018
+Hayes,Jackson146,146,16-01-2018
+Lincoln,Springfield147,147,22-01-2018
+Jefferson,Charleston148,148,20-01-2017
+Pierce,Harrisburg149,149,15-11-2018
+Johnson,Santa Fe150,150,03-11-2017
+Johnson,Honolulu151,151,18-10-2018
+Kennedy,Saint Paul152,152,03-03-2017
+Johnson,Atlanta153,153,08-06-2017
+Washington,Charleston154,154,06-07-2017
+Hayes,Boise155,155,12-10-2019
+Jefferson,Indianapolis156,156,20-10-2019
+Harrison,Annapolis157,157,05-06-2017
+Adams,Juneau158,158,31-08-2019
+Buchanan,Montgomery159,159,12-08-2019
+Hoover,Des Moines160,160,03-11-2019
+Harding,Denver161,161,08-06-2019
+Clinton,Honolulu162,162,01-03-2019
+Fillmore,Little Rock163,163,25-05-2019
+Pierce,Des Moines164,164,16-08-2017
+Grant,Hartford165,165,10-07-2019
+Arthur,Indianapolis166,166,05-09-2019
+Taft,Jackson167,167,12-05-2019
+Adams,Phoenix168,168,22-04-2018
+Eisenhower,Nashville169,169,07-01-2019
+Nixon,Carson City170,170,04-08-2017
+Taft,Lincoln171,171,02-05-2017
+Ford,Columbia172,172,17-05-2018
+Wilson,Olympia173,173,03-02-2017
+Buchanan,Richmond174,174,02-06-2019
+Clinton,Topeka175,175,06-08-2019
+Ford,Austin176,176,14-08-2017
+Polk,Raleigh177,177,02-02-2017
+Harrison,Lansing178,178,11-10-2017
+Harding,Boise179,179,28-12-2018
+Adams,Indianapolis180,180,12-12-2019
+McKinley,Madison181,181,28-01-2018
+Roosevelt,Dover182,182,11-09-2019
+Pierce,Phoenix183,183,08-03-2018
+Harding,Lansing184,184,03-12-2018
+Polk,Annapolis185,185,09-06-2017
+Taylor,Little Rock186,186,14-01-2019
+Adams,Pierre187,187,18-11-2018
+Jefferson,Columbus188,188,18-10-2019
+Garfield,Des Moines189,189,29-05-2018
+Hoover,Carson City190,190,10-08-2017
+Polk,Richmond191,191,12-06-2018
+Arthur,Boise192,192,08-07-2019
+Johnson,Lincoln193,193,21-06-2019
+Van Buren,Springfield194,194,22-07-2017
+Adams,Madison195,195,21-08-2018
+Adams,Boise196,196,03-03-2017
+Reagan,Cheyenne197,197,16-01-2018
+Quincy,Augusta198,198,14-08-2017
+Carter,Lincoln199,199,26-08-2019
+Truman,Santa Fe200,200,10-12-2019
+Nixon,Indianapolis201,201,09-07-2017
+Johnson,Saint Paul202,202,08-09-2018
+Van Buren,Salt Lake City203,203,11-05-2017
+Reagan,Boston204,204,28-11-2018
+Carter,Providence205,205,20-10-2019
+Reagan,Harrisburg206,206,10-05-2018
+Fillmore,Carson City207,207,15-07-2017
+Adams,Albany208,208,12-06-2019
+Wilson,Salem209,209,24-09-2017
+Kennedy,Concord210,210,13-01-2018
+Jefferson,Charleston211,211,20-06-2018
+Garfield,Frankfort212,212,17-07-2018
+Reagan,Harrisburg213,213,09-04-2019
+Clinton,Bismarck214,214,28-05-2018
+Cleveland,Lansing215,215,16-06-2017
+Coolidge,Sacramento216,216,02-10-2017
+Wilson,Hartford217,217,28-04-2018
+Johnson,Lansing218,218,13-01-2019
+Hayes,Helena219,219,17-01-2017
+Coolidge,Topeka220,220,26-12-2017
+Reagan,Richmond221,221,28-12-2018
+Grant,Jackson222,222,05-04-2019
+Reagan,Pierre223,223,24-07-2018
+Madison,Atlanta224,224,11-01-2018
+Arthur,Salem225,225,27-08-2019
+Monroe,Bismarck226,226,19-06-2017
+Taylor,Frankfort227,227,11-04-2019
+Harrison,Richmond228,228,05-02-2018
+Johnson,Montpelier229,229,07-10-2019
+Monroe,Augusta230,230,30-03-2019
+Kennedy,Providence231,231,04-12-2017
+Arthur,Augusta232,232,02-07-2017
+Wilson,Lansing233,233,02-06-2017
+Polk,Topeka234,234,27-02-2019
+Hayes,Lincoln235,235,14-07-2017
+Monroe,Saint Paul236,236,18-12-2018
+Monroe,Dover237,237,22-09-2017
+Cleveland,Boise238,238,29-12-2019
+Hoover,Columbia239,239,30-07-2018
+Grant,Indianapolis240,240,19-01-2018
+Roosevelt,Boise241,241,30-11-2019
+Arthur,Atlanta242,242,20-11-2019
+Tyler,Frankfort243,243,17-03-2019
+Harding,Columbia244,244,23-07-2017
+Grant,Montgomery245,245,01-07-2018
+Wilson,Pierre246,246,24-11-2019
+Carter,Concord247,247,28-11-2019
+Roosevelt,Baton Rouge248,248,24-10-2017
+Roosevelt,Trenton249,249,20-03-2017
+Polk,Oklahoma City250,250,04-02-2018
+Harding,Jefferson City251,251,16-04-2018
+Cleveland,Richmond252,252,20-03-2018
+Harrison,Carson City253,253,20-09-2017
+Madison,Boston254,254,10-07-2017
+Hayes,Juneau255,255,29-10-2017
+Taylor,Salt Lake City256,256,23-07-2017
+Adams,Topeka257,257,22-08-2019
+Pierce,Denver258,258,27-12-2017
+Buchanan,Trenton259,259,07-05-2018
+Roosevelt,Hartford260,260,26-01-2018
+Johnson,Phoenix261,261,06-08-2017
+Van Buren,Denver262,262,01-12-2018
+Pierce,Little Rock263,263,03-09-2018
+Harding,Springfield264,264,29-05-2019
+Fillmore,Nashville265,265,25-11-2019
+Roosevelt,Olympia266,266,21-03-2017
+Taft,Harrisburg267,267,16-05-2018
+Clinton,Salt Lake City268,268,08-05-2017
+Clinton,Frankfort269,269,25-04-2018
+Johnson,Columbus270,270,30-05-2019
+Taft,Trenton271,271,19-10-2017
+Coolidge,Denver272,272,21-02-2017
+Washington,Sacramento273,273,24-10-2018
+Carter,Olympia274,274,05-02-2019
+Arthur,Nashville275,275,05-09-2017
+Coolidge,Jefferson City276,276,22-03-2018
+Carter,Frankfort277,277,21-07-2019
+Polk,Helena278,278,08-03-2018
+Nixon,Jackson279,279,08-04-2017
+Grant,Phoenix280,280,28-02-2017
+Roosevelt,Oklahoma City281,281,04-06-2018
+Garfield,Cheyenne282,282,02-02-2017
+Quincy,Lansing283,283,11-10-2018
+Washington,Nashville284,284,25-07-2018
+Tyler,Hartford285,285,23-04-2017
+Cleveland,Little Rock286,286,08-10-2019
+Quincy,Honolulu287,287,31-01-2017
+Harrison,Phoenix288,288,13-11-2018
+Wilson,Saint Paul289,289,25-12-2018
+Monroe,Columbia290,290,08-01-2017
+Truman,Madison291,291,14-12-2019
+Coolidge,Oklahoma City292,292,07-11-2019
+Taylor,Cheyenne293,293,06-11-2017
+Reagan,Des Moines294,294,01-05-2019
+Reagan,Baton Rouge295,295,16-12-2019
+Adams,Pierre296,296,15-01-2019
+Madison,Lansing297,297,24-01-2018
+Jackson,Harrisburg298,298,16-04-2019
+Carter,Boise299,299,10-12-2019
+Garfield,Madison300,300,19-01-2018
+Nixon,Dover301,301,28-06-2019
+Harding,Boston302,302,08-04-2017
+Pierce,Frankfort303,303,21-06-2018
+Lincoln,Helena304,304,27-05-2018
+Ford,Charleston305,305,23-10-2019
+Johnson,Concord306,306,31-12-2018
+Kennedy,Frankfort307,307,10-12-2018
+Pierce,Richmond308,308,04-03-2019
+Buchanan,Jackson309,309,08-07-2018
+Coolidge,Concord310,310,12-07-2019
+Taylor,Carson City311,311,22-02-2018
+Jackson,Des Moines312,312,09-07-2018
+Roosevelt,Phoenix313,313,28-01-2018
+Madison,Nashville314,314,26-09-2019
+Polk,Topeka315,315,10-11-2018
+Fillmore,Madison316,316,06-12-2019
+Arthur,Pierre317,317,26-05-2018
+Harding,Columbus318,318,08-10-2019
+Wilson,Madison319,319,21-10-2018
+Pierce,Columbia320,320,07-10-2018
+McKinley,Charleston321,321,11-12-2019
+Van Buren,Columbus322,322,30-06-2018
+Monroe,Austin323,323,16-07-2017
+Fillmore,Dover324,324,22-08-2017
+Adams,Helena325,325,10-03-2019
+Wilson,Lincoln326,326,04-02-2017
+Clinton,Saint Paul327,327,06-04-2018
+Harrison,Helena328,328,09-11-2017
+Harrison,Oklahoma City329,329,29-11-2017
+Harrison,Phoenix330,330,18-12-2018
+Buchanan,Tallahassee331,331,02-05-2019
+Reagan,Albany332,332,27-03-2018
+Johnson,Madison333,333,26-09-2018
+Garfield,Bismarck334,334,04-02-2019
+Eisenhower,Tallahassee335,335,10-02-2019
+Grant,Jefferson City336,336,22-04-2019
+Arthur,Columbus337,337,13-09-2017
+Polk,Columbia338,338,16-02-2017
+Reagan,Austin339,339,20-04-2019
+Arthur,Des Moines340,340,27-02-2018
+Carter,Providence341,341,20-01-2019
+Cleveland,Frankfort342,342,21-06-2019
+Eisenhower,Raleigh343,343,07-04-2017
+Grant,Salem344,344,22-10-2019
+Jefferson,Lincoln345,345,30-06-2019
+Clinton,Dover346,346,01-12-2017
+Reagan,Columbia347,347,21-11-2017
+Jackson,Bismarck348,348,03-06-2017
+Clinton,Jefferson City349,349,10-01-2017
+Harrison,Sacramento350,350,05-05-2018
+Harrison,Concord351,351,27-06-2017
+Lincoln,Annapolis352,352,19-04-2017
+Harding,Columbus353,353,30-01-2019
+Nixon,Cheyenne354,354,23-05-2019
+Buchanan,Lincoln355,355,06-11-2018
+Pierce,Hartford356,356,27-01-2017
+Tyler,Little Rock357,357,16-04-2019
+Harrison,Albany358,358,31-01-2019
+Harding,Columbia359,359,17-01-2017
+Carter,Trenton360,360,14-04-2019
+Tyler,Lincoln361,361,12-02-2018
+Adams,Lansing362,362,05-09-2018
+Ford,Lincoln363,363,20-10-2017
+Washington,Bismarck364,364,16-12-2017
+Carter,Harrisburg365,365,09-12-2019
+Jefferson,Olympia366,366,08-05-2017
+Ford,Jefferson City367,367,28-03-2019
+Adams,Phoenix368,368,19-09-2017
+Taylor,Juneau369,369,16-08-2018
+Lincoln,Lansing370,370,03-08-2019
+Eisenhower,Juneau371,371,24-08-2019
+Adams,Albany372,372,07-06-2017
+Harrison,Santa Fe373,373,10-06-2018
+Harding,Saint Paul374,374,06-07-2019
+Clinton,Trenton375,375,03-06-2019
+Adams,Helena376,376,21-05-2017
+Johnson,Santa Fe377,377,05-05-2019
+Eisenhower,Lincoln378,378,23-09-2019
+Harrison,Topeka379,379,07-10-2018
+Truman,Honolulu380,380,05-06-2019
+Truman,Jefferson City381,381,04-11-2017
+Reagan,Pierre382,382,04-10-2017
+Roosevelt,Denver383,383,20-10-2017
+Eisenhower,Sacramento384,384,15-09-2019
+Johnson,Tallahassee385,385,22-07-2017
+Hayes,Richmond386,386,25-06-2018
+Garfield,Columbia387,387,11-09-2017
+Monroe,Santa Fe388,388,25-01-2017
+Nixon,Jefferson City389,389,28-03-2019
+Fillmore,Nashville390,390,20-07-2017
+Hoover,Providence391,391,07-02-2018
+Adams,Lincoln392,392,18-05-2017
+Roosevelt,Salt Lake City393,393,19-07-2017
+Grant,Olympia394,394,24-02-2019
+Grant,Cheyenne395,395,18-09-2019
+Harding,Albany396,396,05-09-2018
+Harrison,Phoenix397,397,07-01-2017
+Reagan,Little Rock398,398,02-03-2019
+Roosevelt,Olympia399,399,25-11-2019
+Fillmore,Nashville400,400,10-03-2017
+Cleveland,Dover401,401,12-10-2017
+Grant,Dover402,402,13-03-2017
+Van Buren,Harrisburg403,403,31-07-2018
+Polk,Richmond404,404,11-12-2017
+Eisenhower,Topeka405,405,15-05-2018
+Harding,Indianapolis406,406,06-08-2017
+Tyler,Baton Rouge407,407,10-03-2019
+Monroe,Trenton408,408,29-01-2019
+Nixon,Charleston409,409,28-06-2018
+McKinley,Boston410,410,26-04-2018
+Kennedy,Helena411,411,04-04-2018
+Reagan,Honolulu412,412,08-07-2019
+Adams,Jefferson City413,413,07-02-2018
+Johnson,Lansing414,414,26-11-2019
+Quincy,Carson City415,415,01-07-2017
+Wilson,Concord416,416,21-02-2018
+Madison,Pierre417,417,16-03-2017
+Johnson,Jefferson City418,418,30-10-2019
+Buchanan,Salt Lake City419,419,10-06-2017
+Taft,Atlanta420,420,02-05-2019
+Adams,Salem421,421,15-09-2019
+Taft,Richmond422,422,06-12-2019
+McKinley,Dover423,423,26-08-2019
+Jefferson,Raleigh424,424,07-03-2019
+Kennedy,Springfield425,425,29-06-2017
+Wilson,Concord426,426,30-07-2018
+Johnson,Salt Lake City427,427,02-04-2017
+Grant,Springfield428,428,20-06-2019
+Buchanan,Denver429,429,30-03-2017
+Harding,Oklahoma City430,430,27-11-2017
+Grant,Baton Rouge431,431,16-12-2018
+Truman,Harrisburg432,432,26-01-2018
+Harding,Columbus433,433,10-11-2019
+Hayes,Little Rock434,434,30-04-2019
+Hayes,Des Moines435,435,16-04-2018
+Taylor,Richmond436,436,04-04-2017
+Reagan,Jackson437,437,23-06-2018
+Wilson,Topeka438,438,29-04-2017
+Hoover,Sacramento439,439,19-05-2017
+Hoover,Madison440,440,15-12-2018
+Jefferson,Helena441,441,29-08-2018
+Cleveland,Montpelier442,442,01-06-2018
+Hayes,Juneau443,443,14-01-2019
+Jackson,Salem444,444,12-01-2017
+Wilson,Olympia445,445,21-05-2019
+Kennedy,Lincoln446,446,10-03-2019
+Tyler,Providence447,447,17-01-2018
+Reagan,Salem448,448,08-02-2019
+Buchanan,Columbia449,449,19-05-2017
+Washington,Boise450,450,18-01-2019
+Tyler,Atlanta451,451,01-04-2019
+Adams,Trenton452,452,15-09-2017
+Harrison,Nashville453,453,16-11-2017
+Grant,Montgomery454,454,27-06-2019
+Hayes,Honolulu455,455,01-03-2018
+Tyler,Sacramento456,456,27-11-2019
+Coolidge,Sacramento457,457,14-09-2018
+Hoover,Dover458,458,29-07-2018
+Grant,Salem459,459,17-10-2017
+Hoover,Denver460,460,08-01-2017
+Tyler,Augusta461,461,13-05-2017
+Harrison,Springfield462,462,09-06-2019
+Polk,Providence463,463,06-02-2019
+Hoover,Sacramento464,464,28-04-2018
+Tyler,Helena465,465,04-04-2018
+Fillmore,Jackson466,466,01-08-2019
+Clinton,Annapolis467,467,26-02-2019
+McKinley,Salt Lake City468,468,19-03-2017
+Fillmore,Indianapolis469,469,22-08-2019
+Quincy,Juneau470,470,05-12-2019
+Arthur,Des Moines471,471,07-04-2017
+Cleveland,Lansing472,472,31-10-2017
+Kennedy,Denver473,473,24-10-2019
+Clinton,Annapolis474,474,06-09-2018
+Roosevelt,Frankfort475,475,06-07-2018
+Truman,Santa Fe476,476,09-06-2017
+Roosevelt,Bismarck477,477,28-01-2019
+Johnson,Saint Paul478,478,14-03-2017
+Coolidge,Saint Paul479,479,17-01-2018
+Hayes,Des Moines480,480,31-08-2017
+Reagan,Charleston481,481,28-06-2018
+Wilson,Atlanta482,482,20-04-2017
+Jefferson,Raleigh483,483,25-01-2017
+Madison,Boise484,484,25-02-2018
+Nixon,Saint Paul485,485,30-01-2017
+Grant,Hartford486,486,12-08-2017
+Adams,Columbus487,487,10-12-2019
+Truman,Montpelier488,488,19-10-2017
+Tyler,Annapolis489,489,18-02-2019
+Washington,Carson City490,490,05-11-2018
+Monroe,Montgomery491,491,21-02-2018
+Kennedy,Topeka492,492,14-05-2018
+Arthur,Jackson493,493,16-06-2019
+Monroe,Augusta494,494,02-03-2018
+Taft,Springfield495,495,14-08-2018
+Van Buren,Austin496,496,05-02-2018
+Harding,Sacramento497,497,27-12-2019
+Cleveland,Lincoln498,498,14-02-2019
+Clinton,Hartford499,499,18-02-2018
+Hoover,Jackson500,500,17-05-2017
+Reagan,Harrisburg501,501,08-01-2019
+Hayes,Tallahassee502,502,31-12-2019
+Cleveland,Salem503,503,11-07-2018
+Harding,Annapolis504,504,17-07-2017
+Roosevelt,Hartford505,505,14-04-2018
+Harding,Concord506,506,28-09-2018
+Polk,Jefferson City507,507,08-05-2019
+Truman,Dover508,508,13-06-2018
+Polk,Columbia509,509,03-08-2017
+Kennedy,Tallahassee510,510,05-02-2017
+Adams,Indianapolis511,511,15-05-2019
+Garfield,Boston512,512,22-05-2017
+Clinton,Salt Lake City513,513,08-05-2017
+Buchanan,Columbia514,514,13-01-2018
+Buchanan,Augusta515,515,19-05-2017
+Hoover,Carson City516,516,10-08-2017
+Coolidge,Albany517,517,30-03-2019
+Johnson,Annapolis518,518,11-12-2019
+Adams,Montgomery519,519,24-06-2017
+Pierce,Lansing520,520,12-10-2017
+Wilson,Providence521,521,18-06-2018
+Monroe,Jefferson City522,522,26-08-2018
+Reagan,Baton Rouge523,523,05-06-2018
+Van Buren,Honolulu524,524,15-05-2018
+Jackson,Salem525,525,11-07-2017
+Van Buren,Harrisburg526,526,23-10-2018
+Roosevelt,Annapolis527,527,08-12-2017
+Buchanan,Sacramento528,528,26-01-2019
+Reagan,Richmond529,529,04-06-2017
+Jefferson,Baton Rouge530,530,26-10-2017
+Johnson,Columbus531,531,08-11-2019
+Hayes,Austin532,532,06-03-2018
+Buchanan,Atlanta533,533,04-11-2017
+Harding,Madison534,534,08-12-2019
+Van Buren,Annapolis535,535,24-12-2017
+Pierce,Albany536,536,12-12-2018
+Johnson,Des Moines537,537,23-08-2017
+Reagan,Juneau538,538,07-01-2018
+Reagan,Baton Rouge539,539,24-10-2019
+Polk,Phoenix540,540,22-11-2017
+Wilson,Santa Fe541,541,05-05-2017
+Jefferson,Indianapolis542,542,19-10-2018
+Adams,Albany543,543,21-01-2019
+Ford,Boise544,544,28-01-2018
+Adams,Concord545,545,26-03-2018
+Polk,Sacramento546,546,07-07-2018
+Ford,Saint Paul547,547,10-09-2017
+Tyler,Montgomery548,548,01-07-2019
+Arthur,Cheyenne549,549,13-01-2018
+Wilson,Dover550,550,18-03-2018
+Monroe,Honolulu551,551,12-07-2017
+Wilson,Juneau552,552,07-11-2017
+Taft,Providence553,553,30-04-2017
+Adams,Olympia554,554,19-12-2018
+Hayes,Jefferson City555,555,18-10-2018
+Adams,Saint Paul556,556,16-12-2019
+Harrison,Montpelier557,557,04-11-2017
+Polk,Nashville558,558,12-12-2019
+Harrison,Bismarck559,559,17-11-2017
+Washington,Carson City560,560,11-07-2018
+Harding,Frankfort561,561,13-09-2017
+Washington,Lansing562,562,14-02-2018
+Pierce,Salem563,563,07-07-2018
+Grant,Harrisburg564,564,12-11-2018
+Monroe,Boise565,565,09-12-2017
+Taft,Indianapolis566,566,10-03-2018
+Ford,Annapolis567,567,11-01-2017
+Nixon,Indianapolis568,568,23-09-2017
+Johnson,Charleston569,569,12-05-2019
+Johnson,Juneau570,570,16-04-2018
+Jefferson,Dover571,571,19-10-2019
+Monroe,Santa Fe572,572,20-04-2019
+Hoover,Oklahoma City573,573,01-07-2019
+Kennedy,Madison574,574,12-11-2017
+McKinley,Bismarck575,575,23-12-2019
+Eisenhower,Dover576,576,12-03-2019
+Roosevelt,Harrisburg577,577,13-09-2017
+Fillmore,Sacramento578,578,15-01-2017
+Madison,Pierre579,579,12-10-2018
+Coolidge,Carson City580,580,19-01-2017
+Kennedy,Carson City581,581,10-10-2019
+Ford,Jackson582,582,25-10-2017
+Hoover,Harrisburg583,583,09-12-2018
+Cleveland,Jefferson City584,584,26-03-2017
+Madison,Harrisburg585,585,12-05-2017
+Grant,Providence586,586,10-06-2019
+Buchanan,Madison587,587,06-11-2019
+Arthur,Albany588,588,12-02-2019
+Jackson,Raleigh589,589,27-01-2018
+Polk,Madison590,590,17-04-2019
+Johnson,Bismarck591,591,14-09-2018
+Hoover,Concord592,592,28-02-2019
+Truman,Cheyenne593,593,10-12-2018
+Johnson,Columbia594,594,12-09-2017
+Buchanan,Albany595,595,21-06-2019
+Harrison,Carson City596,596,28-02-2019
+Taft,Albany597,597,17-01-2019
+Reagan,Baton Rouge598,598,16-03-2019
+Taft,Raleigh599,599,16-11-2017
